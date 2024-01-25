@@ -1,7 +1,6 @@
-
-  MAPPİNG FOR UAV'S
-
-This repository is made for a uav_mapping and it has 2 parts:
+This branche includes the mapping part of this uav project...
+                                MAPPİNG FOR UAV'S
+İt has two parts:
 
 1- Detects and elimintes the blurry photos coming from the uav and splits them from the normal ones.
 
